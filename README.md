@@ -36,7 +36,10 @@
    - HiLife
 
 ## 🖥 &nbsp;Past work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloyachu&repo=Side-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/helloyachu/Side-Project.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloyachu&repo=Side-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/helloyachu/Side-Project.git) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloyachu&repo=Side-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/helloyachu/Side-Project.git)
+
+
+
 
 <br>
 
