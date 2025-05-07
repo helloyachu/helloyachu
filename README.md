@@ -35,11 +35,10 @@
    - PTT
    - HiLife
 
+## 🖥 &nbsp;Past work
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloyachu&repo=Side-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/helloyachu/Side-Project.git)
+
 <br>
-
-
-
-
 
  - UI/UX
 <table>
@@ -49,8 +48,6 @@
 In Design Docs.pdf, describes how the system operates.</td>
   </tr>
 </table>
-
-
 
  - Web-Page
 <table>
@@ -64,7 +61,6 @@ In Design Docs.pdf, describes how the system operates.</td>
     <td valign="top" width="80%">In pearcafe.html, a tablet version has been developed. The optimal display size is 854px*947px and the screen scaling ratio is 100%. In addition to the home page, it also includes the following pages as shown below, About the store, branch information, menu, store activities, services provided, lectures, etc., with a total of fifteen switching paging settings.</td>
   </tr>
 </table>
-
 
  -  Web-Crawler
 <table>
@@ -86,20 +82,6 @@ In Design Docs.pdf, describes how the system operates.</td>
     <td valign="top" width="80%">In the side-project-HiLife.py, you can see information about web crawling HiLife, it’s a web page provide store information.</td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--
 **helloyachu/helloyachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
