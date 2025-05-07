@@ -21,6 +21,13 @@
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="60" height="60"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
 
+<br>
+
+## 🖥 &nbsp;Past work
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloyachu&repo=UI-UX&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/helloyachu/UI-UX.git) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloyachu&repo=Web-Page&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/helloyachu/Web-Page.git)
+
+<br>
+
 ## side-project :point_down:
  - UI/UX
    - Meal-expense-accounting
@@ -37,11 +44,6 @@
    
  - Note
    - Git
-
-<br>
-
-## 🖥 &nbsp;Past work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloyachu&repo=UI-UX&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/helloyachu/UI-UX.git) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloyachu&repo=Web-Page&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/helloyachu/Web-Page.git)
 
 <!--
 **helloyachu/helloyachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
