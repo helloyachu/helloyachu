@@ -43,7 +43,7 @@
    - [HiLife](https://github.com/helloyachu/Web-Crawler.git)
    
  - Note
-   - Git[Meal-expense-accounting](https://github.com/helloyachu/Note.git)
+   - [Git](https://github.com/helloyachu/Note.git)
 
 <!--
 **helloyachu/helloyachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
