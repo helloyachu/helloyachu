@@ -1,9 +1,9 @@
 ## Hi there 👋
-:sparkler: I'm a passionate software developer. Enjoy the process of programming.
-:mortar_board: Dedicated to developing systems that improve people's lives.
-:blossom: My habit is to integrate new information, manage time and money.
-:headphones: In my free time I enjoy listening to music.
-:sunny: Nice to meet you, Have a nice day.
+<p>:sparkler: I'm a passionate software developer. Enjoy the process of programming.</p>
+<p>:mortar_board: Dedicated to developing systems that improve people's lives.</p>
+<p>:blossom: My habit is to integrate new information, manage time and money.</p>
+<p>:headphones: In my free time I enjoy listening to music.</p>
+<p>:sunny: Nice to meet you, Have a nice day.</p>
 
 <!--
 **helloyachu/helloyachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
