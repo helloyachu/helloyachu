@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p>:sparkler: I'm a passionate software developer. Enjoy the process of programming.</p>
 <p>:mortar_board: Dedicated to developing systems that improve people's lives.</p>
-<p>:seedling: My habit is to integrate new information, manage time and money.</p>
+<p>:blossom: My habit is to integrate new information, manage time and money.</p>
 <p>:headphones: In my free time I enjoy listening to music.</p>
 <p>:sunny: Nice to meet you, Have a nice day.</p>
 
